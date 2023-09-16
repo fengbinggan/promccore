@@ -36,10 +36,10 @@ Core:
         Text: '&6&l[我不想看到这些东西]'
         Hint: '&7关闭加入游戏时的统计信息.'
 Time:
-  Day: 天
-  Hour: 小时
-  Min: 分钟
-  Sec: 秒
+  Day: '%s%天'
+  Hour: '%s%时'
+  Min: '%s%分'
+  Sec: '%s%秒'
 Other:
   'Yes': '&a是'
   'No': '&c否'
